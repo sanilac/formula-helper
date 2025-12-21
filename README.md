@@ -162,6 +162,6 @@ Free to use, modify, and distribute. Because math belongs to everyone.
 
 ---
 
-**Built with 💙 by developers who were tired of writing the same formulas again and again.**
+**Built with 💙 by the developer who was tired of writing the same formulas again and again.**
 
 *TRON Calculator - Because your time is too valuable to waste on repetitive code.*
