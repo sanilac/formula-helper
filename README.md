@@ -151,7 +151,7 @@ Found a bug? Want to add more formulas? Contributions are welcome! This is a liv
 
 ## 📝 License
 
-Free to use, modify, and distribute. Because math belongs to everyone.
+This project is open source and available under the MIT License.
 
 ## 💡 Pro Tips
 
